@@ -7,7 +7,7 @@ import NewComponent from './components/NewComponent.vue'
 </script>
 
 <template>
-  <div>
+  <div class="bg-red-300">
     just some text here again
     <NewComponent msg="Yo, morron, it's me, your bossss!" />
     <!-- <IconCommunity />
